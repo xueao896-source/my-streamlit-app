@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+import plotly
+import requests
+import openai
